@@ -1,1 +1,0 @@
-# data_engineer_manich_vladimir
